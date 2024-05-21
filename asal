@@ -1,0 +1,15 @@
+CREATE USER (IMPORTWINUSER "nt_user_id" | "login_name") [FULLNAME "user_full_name"] [DESCRIPTION 
+ "user_description"] 
+ [LONGDESCRIPTION "long_description"] 
+ [NTLINK "nt_user_id" 
+ | NTSID "windows_user_ntsid"] 
+ [PASSWORD "user_password"] 
+ [LDAPLINK "LDAP_user_name"] 
+ [TRUSTEDLOGIN "trusted_authenticated_id"] 
+ [WHLINK "warehouse_login"] 
+ [WHPASSWORD "warehouse_password"] 
+ [ALLOWSTDAUTH (TRUE | FALSE)] [ALLOWCHANGEPWD (TRUE | FALSE)] [CHANGEPWD 
+ (TRUE | FALSE)] [PASSWORDEXP (NEVER | (IN number_of_days 
+ DAYS | ON expiration_date))] 
+ [PASSWORDEXPFREQ number_of_days 
+ DAYS] [(ENABLED | DISABLED)] [IN GROUP "user_group_name"];
