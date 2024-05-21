@@ -1,0 +1,160 @@
+PILOT
+--- Class: Specialist - Executor
+--- Tag: (Fast-Redeploy) (Shift) (Debuff)
+
+O X
+
+"You took me in and cared for my being; I think it's just polite to return that kindness back. Please, allow me to join your 
+cause in Rhodes Island."
+
+Max HP: 2/4  Redeploy Time: Fast
+Atk: 3/4     DP Cost: 12
+Def: 2/4     Block: 1
+Res: 0       Attack Speed: Fast
+
+Skillset A
+Skill 1 Rodeo Attack: (Passive) +20% dodge chance, +50% MaxHP; Gain 3 stacks of +25% dodge chance.
+		Every succesful dodge reduces this stack by 1; increase redeployment time +50%. If [Zip-Drop] was deployed,
+		further increase the next redeployment time by additional +25%.
+Skill 2 Fastball: (Passive) +80% ATK. On deployment, push an enemy in range significantly towards facing direction,
+		prioritizing lowest weight enemy; Increase redeployment time +25%.
+Skill 3 Apex Champion: (Passive) After deployment, throw an electrifying smoke grenade on self and frontal
+		tile that lasts for 8s. Apply Enfeeble -20% ATK, silence, and a brief 0.4s slow to enemies inside electrified smoke.
+		Enemies take 120% Arts damage every second. This effect doesn't stack with itself.
+
+Skillset B
+Skill 1: (12s cd/auto) Has a set detection range in the facing direction (Fortress Def + melee). When an enemy enters the range, PILOT dashes in, redeploying on the tile in that range, and attacks that enemy for the duration of the skill. At the end of the skill or when target enemy is defeated, redeploy on the original deployed tile.
+Skill 2: (25s cd/manual) Has a set detection range in the facing direction. When an enemy enters the range, PILOT dashes in after a brief delay, redeploying on the tile in that range and stuns up to three enemies on 8-tiles around him. At the end of the skill or when target enemy is defeated, redeploy on the original deployed tile.
+
+Trait
+Significantly reduced redeployment time.
+
+Talents
+e0/e2 Ark-Phasing Anomaly
+Once per deployment, can deploy 10DP/7DP [Rift-Drop] on melee tile. When [Rift-Drop] is deployed, PILOT immediately retreats
+and redeploy on that tile, increasing his next redeployment time by +25%. [Rift-Drop] can be deployed on top of PILOT's tile.
+
+e2 Pilot SERE Kit
+Attack range +2 tiles. PILOT deals 250% ATK against enemies with movespeed 0.4 or lower (blocked enemies have 0 movespeed).
+====================
+Imaging tests show blurred outlines of internal organs, indicating this operator as an infected. Visible crystal formations on
+his left palm bone structure.
+
+Clinical Analysis
+Cell-Originium assimilation rate: 9%
+PILOT was found in the aftermath of a catastrophe, but thanks to the fast treatment, the spread of infection on his body
+is stabilized before reaching a critical stage. Advise continuous monitoring for further potential infection spread.
+
+Blood originium content: 0.27u/l
+It is a miracle that PILOT can survive until now.
+Medical Department notes against any excessive work and recommends PILOT to take regular rest now and then.
+
+Despite having high originium content in his blood, the fairly low infection rate indicates that PILOT contracted the uncommon but
+more lethal Acute Oripathy Syndrome. While medical department notes his skills and intention to help Rhodes Island,
+it should be made clear that acute syndrome is very dangerous and PILOT could have sudden seizure anytime which would
+harm himself and, consequently, the operations he is assigned in. If I were to give recommendation, PILOT should not
+be even allowed to get into combat whatsoever, but you just can't stop a man with a firm determination like him now, can you?
+Ugh, what a reckless guy.
+-- Warfarin
+====================
+Physical Examination
+[Physical Strength] Excellent
+[Mobility] Outstanding
+[Physical Resilence] Standard
+[Tactical Acumen] Excellent
+[Combat Skill] Excellent
+[Originium Arts Assimilation] Flawed
+====================
+Profile
+A catastrophe survivor, our messenger found PILOT lying unconscious on the middle of a street during their travel. After
+brought back to the landship (with the approval of Dr. Kalt'sit), PILOT remained in care of Rhodes Island for about 5 weeks.
+We found him wounded and the rapid blood test showed that an acute infection was taking place, so medical department took a quick
+action to stabilize his condition.
+
+PILOT wears a unique set of gear that doesn't seem to be of Raythean's model nor Rhine Lab's prototype. His equipment is unique,
+consisting of what seems to be a set of jetpack kit, a left wrist-glove device, and an integrated helmet kit with HUD in addition to
+his pistol and knife, which all these are confirmed by the subject himself. For now, the MD will take care of this catastrophe survivor until the time he wakes up.
+====================
+Archive File 1
+"I'm here... looking for a friend," is what he said first when he wakes up. According to a quick interview session,
+PILOT seems to have lost recollection of his memory before the catastrophe. In fact, PILOT seems confused when presented with an
+explanation regarding catastrophe, implying that this is the first time he knew of catastrophe.
+
+The catastrophe might have interfered with his memory, or maybe the infection is. We're positive, however, although the originium
+spread in his body was high, we have put all our effort to the treatment of his acute infection.
+
+But for now, Rhodes Island will care for this catastrophe victim until he is fully recovered. Hopefully, when the time comes,
+PILOT will be able to get up and continue his travel to find his friend safely.
+====================
+Archive File 2
+Wow. Just wow. I'm not normally write such expressions in a profile report, but just for this time, wow.
+
+Today is the time for training collaboration scheduled for many operators and, RnD, with the lament of Dr. Kalts'it, is all seemed too eager to
+see PILOT in action utilizing his unique set of equipment. Well, more like they can't do anything about a stranger's strange equipment
+and would like to see them in action with their own eyes. Very dumb, their kind, though PILOT is willing to accept their request happily.
+
+And what a spectacular performance he has shown us. Running, zipping, sliding, taking out the whole obstacle course in a mere 11.1 seconds.
+That's a new record! Perfect numbers, even. The course took Fang 25.6s, Grani 24.2s, and everyone else are worse than that. Even he scored a
+top speed of 100 km/h at one point in the course. He was almost flying, though he insisted that his "jumpkit" doesn't allow him to fly.
+He made a specific point though about climbing any height with ease, which doesn't sound any different from flying, to be honest.
+
+Hah, for real. Who is this guy?
+====================
+Archive File 3
+RnD still dumbfounded. Their obsession to PILOT's gear doesn't seem to wane any time soon; in fact, they discovered something that
+raises more questions, me included: PILOT's gear has a strong affinity to Arts.
+
+PILOT talks in fluent Columbian dialect, but, he doesn't seem to be familiar to the country (or anywhere else), and his equipment is
+definitely not a Raythean's practical style nor Rhine's outlandish style; it looked very simple, almost like made from nuts and bolts
+cobbled together with random spare parts.
+
+Previously, I wrote that his acute infection might have affected his memory, but for the time he has been here, I start to have a
+doubt that is the case. Sure, there have been some cases of amnesia or other form of memory loss as an effect from Oripathy, but
+in his case, something is missing.
+
+Who is he? Where he comes from? What is his goal?
+====================
+Archive File 4
+"I... lost my dear friend. I know it was a foolish attempt to return to that explosion, even after its action of saving my life.
+I know it is part of the protocol, but when I said we will stay together, I truly mean it.
+I just want to see it again."
+
+
+====================
+Archive File 5
+
+
+ACE, The Great Demon
+--- Class: Guard - Double Striker
+--- Tag: (DPS) (Survival)
+
+O X
+
+""
+
+
+Max HP: 3/4  Redeploy Time: Slow
+Atk: 3/4     DP Cost: 21
+Def: 2/4     Block: 1
+Res: 0       Attack Speed: Slightly Slow
+
+Skills
+Skill 1 Survive: (Offensive Recovery 6/Auto) Gain 3 ammo. Increase first talent trigger chance to 100% and its
+		power to triple damage. When the skill ends, immediately deal 150% ATK to 3 enemies in range; Can end
+		the skill early and set ammo to 0.
+Skill 2 Rain of Death: (Auto Recovery 25/Manual) Deal 180% ATK and 100% Arts damage to all enemies within range.
+Skill 3 Daemon est: (Auto Recovery 45/Auto) When the skill is active, gain a shield that negates one attack.
+		If the shield breaks, gain 1 [Morph] counter and reset this skill; Can store 1 charge.
+		Passive: When ACE reaches 3 [Morph] counters, +25% Max HP and improve first talent to
+		100% chance and double the max stack of second talent.
+
+Trait
+Attacks deal damage twice.
+
+Talents
+e0/e1 Lord of the Round Table
+Each attack has 30% chance to deal double damage and gain +1 SP.
+
+e2 Mutat valde Razgriz
+Gain +1% ATK and +1 ASPD after defeating an enemy. Stacks up to 15 times.
+At max stack, gain additional +10% ATK.
