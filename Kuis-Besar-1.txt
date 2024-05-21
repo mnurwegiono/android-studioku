@@ -1,0 +1,4 @@
+Quiz Besar 1:
+Buat aplikasi mirip seperti ini, desain boleh berbeda. Tatapi layout tetap sama.
+Travel App UI Design to Android XML
+https://www.youtube.com/watch?v=v473aclyj34
